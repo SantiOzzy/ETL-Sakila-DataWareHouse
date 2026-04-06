@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DW Integration Services", "DW Integration Services\DW Integration Services.dtproj", "{460F9AD2-F362-498B-869D-D9468F0F8EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460F9AD2-F362-498B-869D-D9468F0F8EA5}.Development|Default.ActiveCfg = Development
+		{460F9AD2-F362-498B-869D-D9468F0F8EA5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF3C7042-F2DF-4539-A696-7EF4F0E25CD8}
+	EndGlobalSection
+EndGlobal
